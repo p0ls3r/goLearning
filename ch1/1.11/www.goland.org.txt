@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.goland.org/wordpress/wordpress/xmlrpc.php">
+	<script>
+(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);
+//# sourceURL=twentyfifteen_javascript_detection
+</script>
+<title>Stuff Yaron Finds Interesting &#8211; Technology, Politics, Food, Finance, etc.</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel="alternate" type="application/rss+xml" title="Stuff Yaron Finds Interesting &raquo; Feed" href="https://www.goland.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Stuff Yaron Finds Interesting &raquo; Comments Feed" href="https://www.goland.org/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.goland.org\/wordpress\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.4"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.goland.org/wordpress/wordpress/wp-includes/css/dist/block-library/style.min.css?ver=6.6.4' media='all' />
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:#ffffffa6}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:#ffffffa6}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #fff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--dark-gray: #111;--wp--preset--color--light-gray: #f1f1f1;--wp--preset--color--yellow: #f4ca16;--wp--preset--color--dark-brown: #352712;--wp--preset--color--medium-pink: #e53b51;--wp--preset--color--light-pink: #ffe5d1;--wp--preset--color--dark-purple: #2e2256;--wp--preset--color--purple: #674970;--wp--preset--color--blue-gray: #22313f;--wp--preset--color--bright-blue: #55c3dc;--wp--preset--color--light-blue: #e9f2f9;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--gradient--dark-gray-gradient-gradient: linear-gradient(90deg, rgba(17,17,17,1) 0%, rgba(42,42,42,1) 100%);--wp--preset--gradient--light-gray-gradient: linear-gradient(90deg, rgba(241,241,241,1) 0%, rgba(215,215,215,1) 100%);--wp--preset--gradient--white-gradient: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(230,230,230,1) 100%);--wp--preset--gradient--yellow-gradient: linear-gradient(90deg, rgba(244,202,22,1) 0%, rgba(205,168,10,1) 100%);--wp--preset--gradient--dark-brown-gradient: linear-gradient(90deg, rgba(53,39,18,1) 0%, rgba(91,67,31,1) 100%);--wp--preset--gradient--medium-pink-gradient: linear-gradient(90deg, rgba(229,59,81,1) 0%, rgba(209,28,51,1) 100%);--wp--preset--gradient--light-pink-gradient: linear-gradient(90deg, rgba(255,229,209,1) 0%, rgba(255,200,158,1) 100%);--wp--preset--gradient--dark-purple-gradient: linear-gradient(90deg, rgba(46,34,86,1) 0%, rgba(66,48,123,1) 100%);--wp--preset--gradient--purple-gradient: linear-gradient(90deg, rgba(103,73,112,1) 0%, rgba(131,93,143,1) 100%);--wp--preset--gradient--blue-gray-gradient: linear-gradient(90deg, rgba(34,49,63,1) 0%, rgba(52,75,96,1) 100%);--wp--preset--gradient--bright-blue-gradient: linear-gradient(90deg, rgba(85,195,220,1) 0%, rgba(43,180,211,1) 100%);--wp--preset--gradient--light-blue-gradient: linear-gradient(90deg, rgba(233,242,249,1) 0%, rgba(193,218,238,1) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='twentyfifteen-fonts-css' href='https://www.goland.org/wordpress/wordpress/wp-content/themes/twentyfifteen/assets/fonts/noto-sans-plus-noto-serif-plus-inconsolata.css?ver=20230328' media='all' />
+<link rel='stylesheet' id='genericons-css' href='https://www.goland.org/wordpress/wordpress/wp-content/themes/twentyfifteen/genericons/genericons.css?ver=20251101' media='all' />
+<link rel='stylesheet' id='twentyfifteen-style-css' href='https://www.goland.org/wordpress/wordpress/wp-content/themes/twentyfifteen/style.css?ver=20251202' media='all' />
+<link rel='stylesheet' id='twentyfifteen-block-style-css' href='https://www.goland.org/wordpress/wordpress/wp-content/themes/twentyfifteen/css/blocks.css?ver=20240715' media='all' />
+<script src="https://www.goland.org/wordpress/wordpress/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://www.goland.org/wordpress/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script id="twentyfifteen-script-js-extra">
+var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
+</script>
+<script src="https://www.goland.org/wordpress/wordpress/wp-content/themes/twentyfifteen/js/functions.js?ver=20250729" id="twentyfifteen-script-js" defer data-wp-strategy="defer"></script>
+<link rel="https://api.w.org/" href="https://www.goland.org/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.goland.org/wordpress/wordpress/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.6.4" />
+<style data-context="foundation-flickity-css">/*! Flickity v2.0.2
+http://flickity.metafizzy.co
+---------------------------------------------- */.flickity-enabled{position:relative}.flickity-enabled:focus{outline:0}.flickity-viewport{overflow:hidden;position:relative;height:100%}.flickity-slider{position:absolute;width:100%;height:100%}.flickity-enabled.is-draggable{-webkit-tap-highlight-color:transparent;tap-highlight-color:transparent;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.flickity-enabled.is-draggable .flickity-viewport{cursor:move;cursor:-webkit-grab;cursor:grab}.flickity-enabled.is-draggable .flickity-viewport.is-pointer-down{cursor:-webkit-grabbing;cursor:grabbing}.flickity-prev-next-button{position:absolute;top:50%;width:44px;height:44px;border:none;border-radius:50%;background:#fff;background:hsla(0,0%,100%,.75);cursor:pointer;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.flickity-prev-next-button:hover{background:#fff}.flickity-prev-next-button:focus{outline:0;box-shadow:0 0 0 5px #09f}.flickity-prev-next-button:active{opacity:.6}.flickity-prev-next-button.previous{left:10px}.flickity-prev-next-button.next{right:10px}.flickity-rtl .flickity-prev-next-button.previous{left:auto;right:10px}.flickity-rtl .flickity-prev-next-button.next{right:auto;left:10px}.flickity-prev-next-button:disabled{opacity:.3;cursor:auto}.flickity-prev-next-button svg{position:absolute;left:20%;top:20%;width:60%;height:60%}.flickity-prev-next-button .arrow{fill:#333}.flickity-page-dots{position:absolute;width:100%;bottom:-25px;padding:0;margin:0;list-style:none;text-align:center;line-height:1}.flickity-rtl .flickity-page-dots{direction:rtl}.flickity-page-dots .dot{display:inline-block;width:10px;height:10px;margin:0 8px;background:#333;border-radius:50%;opacity:.25;cursor:pointer}.flickity-page-dots .dot.is-selected{opacity:1}</style><style data-context="foundation-slideout-css">.slideout-menu{position:fixed;left:0;top:0;bottom:0;right:auto;z-index:0;width:256px;overflow-y:auto;-webkit-overflow-scrolling:touch;display:none}.slideout-menu.pushit-right{left:auto;right:0}.slideout-panel{position:relative;z-index:1;will-change:transform}.slideout-open,.slideout-open .slideout-panel,.slideout-open body{overflow:hidden}.slideout-open .slideout-menu{display:block}.pushit{display:none}</style><style>.ios7.web-app-mode.has-fixed header{ background-color: rgba(3,122,221,.88);}</style></head>
+
+<body class="home blog wp-embed-responsive">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">
+		Skip to content	</a>
+
+	<div id="sidebar" class="sidebar">
+		<header id="masthead" class="site-header">
+			<div class="site-branding">
+									<h1 class="site-title"><a href="https://www.goland.org/" rel="home" aria-current="page">Stuff Yaron Finds Interesting</a></h1>
+									<p class="site-description">Technology, Politics, Food, Finance, etc.</p>
+				
+				<button class="secondary-toggle">Menu and widgets</button>
+			</div><!-- .site-branding -->
+		</header><!-- .site-header -->
+
+			<div id="secondary" class="secondary">
+
+		
+		
+					<div id="widget-area" class="widget-area" role="complementary">
+				<aside id="categories-3" class="widget widget_categories"><h2 class="widget-title">Categories</h2><nav aria-label="Categories">
+			<ul>
+					<li class="cat-item cat-item-2"><a href="https://www.goland.org/category/aboutme/">AboutMe</a> (6)
+</li>
+	<li class="cat-item cat-item-6"><a href="https://www.goland.org/category/reviews/">reviews</a> (8)
+</li>
+	<li class="cat-item cat-item-4"><a href="https://www.goland.org/category/technology/">Tech</a> (181)
+<ul class='children'>
+	<li class="cat-item cat-item-8"><a href="https://www.goland.org/category/technology/home-pc/">Home PC</a> (33)
+</li>
+	<li class="cat-item cat-item-9"><a href="https://www.goland.org/category/technology/internet-protocols/">Internet Protocols</a> (30)
+</li>
+	<li class="cat-item cat-item-11"><a href="https://www.goland.org/category/technology/soawebetc/">SOA/Web/Etc.</a> (61)
+</li>
+	<li class="cat-item cat-item-15"><a href="https://www.goland.org/category/technology/thali/">Thali</a> (42)
+</li>
+</ul>
+</li>
+			</ul>
+
+			</nav></aside>			</div><!-- .widget-area -->
+		
+	</div><!-- .secondary -->
+
+	</div><!-- .sidebar -->
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main">
+
+		
+			
+			
+<article id="post-1415" class="post-1415 post type-post status-publish format-standard hentry category-home-pc">
+	
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://www.goland.org/x-mouse-button-control-web-navigation-tilt-wheel-and-remote-desktop/" rel="bookmark">X-Mouse Button Control, Web Navigation, Tilt Wheel and Remote Desktop</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<!--l. 12--><p class="noindent">I recently decided to buy the <a 
+href="https://xkeys.com/l-tracred.html">X-keys L-Trac Red Trackball</a> because I just like track
+balls and this was one of the best reviewed trackballs I could find. Over all I&#8217;m happy
+with my purchase but I have had some issues and I wanted to explain in this article
+how I solved them. My hope is that others with similar issues can find this article
+and save themselves some time.
+<!--l. 19--></p><p class="indent">   The challenge with the L-Trac is that it only comes with three buttons (you can
+buy more though but other than the foot peddles that would take up more room
+than I want to use and don&#8217;t appear terribly easy to use). This left me a
+bit in the lurch because I really liked being able to navigate back in web
+browsers when I&#8217;m just using the Trackball and for some apps I use (like
+Balsamiq and Excel) the ability to left/right tilt is a requirement for a good
+experience.
+<!--l. 27--></p><p class="indent">   My online research pointed to <a 
+href="https://www.highrez.co.uk/downloads/XMouseButtonControl.htm">X-Mouse Button Control</a> as the solution. This is a
+free piece of non-open source software that lets you remap mouse buttons in a
+dizzying variety of ways. The good new is that it solved my missing button problems.
+The bad news is that it took me a while to figure out how to make it work right. So I
+thought I would share what I learned to hopefully save others time in the
+future.
+<!--l. 35--></p><p class="indent">   For Web Navigation the easiest solution appeared to be using chording. That is,
+to combine one button (I choose the left trackball button) to change the trackball
+scroll wheel into a navigation wheel (e.g. scroll up goes forward, scroll down
+goes back). This absolutely works but it&#8217;s kind of a pain because the super
+smooth scroll wheel has no clicks or other indications when it has incremented
+so it&#8217;s easy to over or under scroll and end up way more pages away than
+I intended. A much nicer solution was to chord the left button with the
+middle button as back and the right button as forward. To do this you have
+to:
+     <ol  class="enumerate1">
+     <li 
+  class="enumerate" id="x1-3x1">Go to Left button and set it to "Button Chording"
+     </li>
+     <li 
+  class="enumerate" id="x1-5x2">Go to the Right Button in the chording menu and set it to Forward
+     </li>
+     <li 
+  class="enumerate" id="x1-7x3">Go to the Middle Button in the chording menu and set it to Back
+     </li>
+     <li 
+  class="enumerate" id="x1-9x4">I unchecked "Block" in the chording menu because I often hold down the
+     left button and use it with the track ball to do selections so I didn&#8217;t want
+     chording to interfere with dragging.</li></ol>
+<!--l. 54--></p><p class="noindent">For simulating the tilt wheel left/right the obvious solution would be to use "Change
+Movement to Scroll" feature which turns the track ball into a huge mouse up/mouse
+down, left tilt/right tilt sphere. But in practice I found the feature to be clunky. How
+far it scrolled depended on how far I moved the cursor and regardless of the
+sensitivity setting the scrolling always felt jumpy and hard to control. In the end I
+                                                                  
+
+                                                                  
+took a different route. I set up chording, this time with my right button and I
+programmed wheel up and wheel down to map to tilt left and tilt right. This proved
+to work really well and gave a really nice scroll experience. Setting this up
+requires:
+     <ol  class="enumerate1">
+     <li 
+  class="enumerate" id="x1-11x1">Go to Right Button and set to "Button Chording"
+     </li>
+     <li 
+  class="enumerate" id="x1-13x2">Go to Wheel Up and set to Mouse Wheel Tilt Left in the chording menu
+     </li>
+     <li 
+  class="enumerate" id="x1-15x3">Go to Wheel Down and set to Mouse Wheel Tilt Right in the chording
+     menu
+     </li>
+     <li 
+  class="enumerate" id="x1-17x4">In this case I did activate "Block" in the chording because otherwise I
+     accidentally trigger the right click menu which is annoying.</li></ol>
+<!--l. 74--></p><p class="noindent">One last problem I ran into is that I use Remote Desktop a lot and I wanted my
+trackball to work properly there. To get this to work right I had to:
+     <ol  class="enumerate1">
+     <li 
+  class="enumerate" id="x1-19x1">On  the  machine  I&#8217;m  Remote  Desktoping  from  go  to  "Add"  on  the
+     Application / Windows Profiles menu
+     </li>
+     <li 
+  class="enumerate" id="x1-21x2">Select "mstsc.exe" as the app (this is easiest if you have Remote Desktop
+     running so you can select it from the Process Menu)
+     </li>
+     <li 
+  class="enumerate" id="x1-23x3">Then set everything to "No Change" for the remote desktop profile on
+     the machine I&#8217;m remote desktoping from The idea is to completely disable
+     X-Mouse Button Control on the machine I&#8217;m Remote Desktoping from
+     when I&#8217;m using Remote Desktop.</li></ol>
+<!--l. 88--></p><p class="noindent">Then on the machine I&#8217;m Remote Desktoping to:
+     <ol  class="enumerate1">
+     <li 
+  class="enumerate" id="x1-25x1">Install X-Mouse Button Control
+     </li>
+     <li 
+  class="enumerate" id="x1-27x2">Configure all the chording on the machine I&#8217;m remote desktoping to as
+     given at the start of this post</li></ol>
+<!--l. 94--></p><p class="noindent">Now my trackball behaves itself just fine both on my primary box and my remote
+desktop box and I have a nice forward/back navigation experience as well as a nice
+left/right tilt experience. It took me quite a bit of experimentation to figure this all
+out so I&#8217;m hoping that this post will help save other folks some time if they if they
+have similar problems.  </p>	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://www.goland.org/x-mouse-button-control-web-navigation-tilt-wheel-and-remote-desktop/" rel="bookmark"><time class="entry-date published updated" datetime="2021-03-14T16:39:35-08:00">March 14, 2021</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.goland.org/category/technology/home-pc/" rel="category tag">Home PC</a></span><span class="comments-link"><a href="https://www.goland.org/x-mouse-button-control-web-navigation-tilt-wheel-and-remote-desktop/#comments">2 Comments<span class="screen-reader-text"> on X-Mouse Button Control, Web Navigation, Tilt Wheel and Remote Desktop</span></a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-1415 -->
+
+<article id="post-410" class="post-410 post type-post status-publish format-standard hentry category-aboutme">
+	
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://www.goland.org/aboutme/" rel="bookmark">My Resume</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<table width="578" cellpadding="7" cellspacing="0" style="page-break-before: always">
+	<col width="190"/>
+	<col width="163"/>
+	<col width="183"/>
+	<tr valign="top">
+		<td width="190" style="border: none; padding: 0in">
+			<p><b>Yaron Y. Goland</b></p>
+		</td>
+		<td width="163" style="border: none; padding: 0in">
+			<p align="center"><a href="https://www.goland.org/">www.goland.org</a>
+						</p>
+		</td>
+		<td width="183" style="border: none; padding: 0in">
+			<p align="right">yaron AT goland DOT org</p>
+		</td>
+	</tr>
+</table>
+<hr />
+
+<p><b>OBJECTIVE:</b> Be part of an outstanding team building
+massively scalable software infrastructures where I can contribute my
+skills as a software architect/technical program manager.</p>
+<h1 class="western"> <a href="https://www.goland.org/aboutme/#more-410" class="more-link">Continue reading <span class="screen-reader-text">My Resume</span></a></h1>	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://www.goland.org/aboutme/" rel="bookmark"><time class="entry-date published" datetime="2017-05-08T11:00:00-08:00">May 8, 2017</time><time class="updated" datetime="2017-09-09T15:39:53-08:00">September 9, 2017</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.goland.org/category/aboutme/" rel="category tag">AboutMe</a></span><span class="comments-link"><a href="https://www.goland.org/aboutme/#comments">3 Comments<span class="screen-reader-text"> on My Resume</span></a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-410 -->
+
+<article id="post-1363" class="post-1363 post type-post status-publish format-standard hentry category-internet-protocols">
+	
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://www.goland.org/blockchain_and_cap/" rel="bookmark">The block chain and the CAP Theorem</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<div class="abstract">
+In this article I argue that depending on how one programs one’s client, one can build a Consistent and Partition Tolerant or Available and Partition Tolerant system on top of Bitcoin or really any block chain. And no, that isn’t a contradiction and no this doesn’t violate the CAP theorem.
+</div>
+<div class="abstract">
+[Note: Lots of updates in response to feedback]
+</div>
+<p> <a href="https://www.goland.org/blockchain_and_cap/#more-1363" class="more-link">Continue reading <span class="screen-reader-text">The block chain and the CAP Theorem</span></a></p>
+	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://www.goland.org/blockchain_and_cap/" rel="bookmark"><time class="entry-date published" datetime="2017-03-08T17:18:05-08:00">March 8, 2017</time><time class="updated" datetime="2017-03-13T09:18:36-08:00">March 13, 2017</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.goland.org/category/technology/internet-protocols/" rel="category tag">Internet Protocols</a></span><span class="comments-link"><a href="https://www.goland.org/blockchain_and_cap/#comments">4 Comments<span class="screen-reader-text"> on The block chain and the CAP Theorem</span></a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-1363 -->
+
+<article id="post-1354" class="post-1354 post type-post status-publish format-standard hentry category-internet-protocols">
+	
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://www.goland.org/why_block_chains_are_strongly_consistent/" rel="bookmark">How to make block chains strongly consistent</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<div class="abstract">
+Block chains can be strongly consistent but not in the normal deterministic sense we are used to from consensus protocols like Paxos. Instead the strong consistency is probabilistic. That is, if one waits for long enough then the probability of a particular transaction being removed from the chain falls to negligible levels. This then provides the basis for a protocol that can treat the block chain as strongly consistent, where the protocol is &ldquo;Wait until a transaction is X blocks deep in whatever chain one sees&rdquo;.
+</div>
+ <a href="https://www.goland.org/why_block_chains_are_strongly_consistent/#more-1354" class="more-link">Continue reading <span class="screen-reader-text">How to make block chains strongly consistent</span></a>	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://www.goland.org/why_block_chains_are_strongly_consistent/" rel="bookmark"><time class="entry-date published" datetime="2017-03-06T18:48:35-08:00">March 6, 2017</time><time class="updated" datetime="2017-03-08T17:02:05-08:00">March 8, 2017</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.goland.org/category/technology/internet-protocols/" rel="category tag">Internet Protocols</a></span><span class="comments-link"><a href="https://www.goland.org/why_block_chains_are_strongly_consistent/#comments">1 Comment<span class="screen-reader-text"> on How to make block chains strongly consistent</span></a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-1354 -->
+
+<article id="post-1347" class="post-1347 post type-post status-publish format-standard hentry category-internet-protocols">
+	
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://www.goland.org/off_chain_storage_and_the_enterprise/" rel="bookmark">Going off chain for storage</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<div class="abstract">
+It turns out that building a distributed database with ACID behavior (aka a block chain) isn’t easy, it requires a lot of code and a lot of processing. As a result block chains like Bitcoin can process around 4 transactions/second. A pretty slow pace for a globe spanning system. To work around this and other issues I explore below, we hear more and more about off block chain storage. But it turns out that if you store off the chain then you lose the chain’s ACID guarantees. In many cases that loss is fine but it does call into question if the use case that can leverage off chain storage really needs the chain at all.
+</div>
+<div class="abstract">
+[Update: Thank you to <a class="URL" href="http://www.cicoria.com/">Shawn Cicoria</a> for pointing out that my original price quote for storing a Gigabyte of data in Ethereum was off by a factor of 32. My mistake is that I did the calculations forgetting that the gas price is per Ethereum Word which is 32 bytes.]
+</div>
+ <a href="https://www.goland.org/off_chain_storage_and_the_enterprise/#more-1347" class="more-link">Continue reading <span class="screen-reader-text">Going off chain for storage</span></a>	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://www.goland.org/off_chain_storage_and_the_enterprise/" rel="bookmark"><time class="entry-date published" datetime="2017-02-15T12:55:37-08:00">February 15, 2017</time><time class="updated" datetime="2017-04-03T12:02:49-08:00">April 3, 2017</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.goland.org/category/technology/internet-protocols/" rel="category tag">Internet Protocols</a></span><span class="comments-link"><a href="https://www.goland.org/off_chain_storage_and_the_enterprise/#respond">Leave a comment<span class="screen-reader-text"> on Going off chain for storage</span></a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-1347 -->
+
+<article id="post-1344" class="post-1344 post type-post status-publish format-standard hentry category-internet-protocols">
+	
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://www.goland.org/blockchain_in_the_enterprise/" rel="bookmark">Why are enterprises interested in the block chain?</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<div class="abstract">
+My day job has required me to look into issues related to using the block chain in the enterprise. This lead me to a simple question - why would an enterprise be interested in the block chain for running its own business?
+</div>
+ <a href="https://www.goland.org/blockchain_in_the_enterprise/#more-1344" class="more-link">Continue reading <span class="screen-reader-text">Why are enterprises interested in the block chain?</span></a>	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://www.goland.org/blockchain_in_the_enterprise/" rel="bookmark"><time class="entry-date published" datetime="2017-02-10T18:18:01-08:00">February 10, 2017</time><time class="updated" datetime="2019-01-21T11:02:47-08:00">January 21, 2019</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.goland.org/category/technology/internet-protocols/" rel="category tag">Internet Protocols</a></span><span class="comments-link"><a href="https://www.goland.org/blockchain_in_the_enterprise/#comments">1 Comment<span class="screen-reader-text"> on Why are enterprises interested in the block chain?</span></a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-1344 -->
+
+<article id="post-1342" class="post-1342 post type-post status-publish format-standard hentry category-thali">
+	
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://www.goland.org/makingthaliflyforeveryone/" rel="bookmark">How do we build apps for this wonderful mesh based Internet anyway?</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<div class="abstract">
+<a class="URL" href="https://www.goland.org/phoneapparchitectureforthe99percent/">Previously</a> I waxed poetic about the amazing powers of <a class="URL" href="http://www.servalproject.org/">Serval</a> to create mesh based Internet infrastructure for developing and less developed countries (LDCs). The thesis being that if we had meshes of Wifi endpoints that could move data around without charge then people could have local applications on their smart phones that run peer to peer and could take advantage of this infrastructure. But how do we build those apps? That is where <a class="URL" href="http://thaliproject.org/">Thali</a> comes in. But yes, we need more. See below.
+</div>
+ <a href="https://www.goland.org/makingthaliflyforeveryone/#more-1342" class="more-link">Continue reading <span class="screen-reader-text">How do we build apps for this wonderful mesh based Internet anyway?</span></a>	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://www.goland.org/makingthaliflyforeveryone/" rel="bookmark"><time class="entry-date published" datetime="2017-02-10T15:00:40-08:00">February 10, 2017</time><time class="updated" datetime="2017-02-10T15:01:10-08:00">February 10, 2017</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.goland.org/category/technology/thali/" rel="category tag">Thali</a></span><span class="comments-link"><a href="https://www.goland.org/makingthaliflyforeveryone/#respond">Leave a comment<span class="screen-reader-text"> on How do we build apps for this wonderful mesh based Internet anyway?</span></a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-1342 -->
+
+<article id="post-1337" class="post-1337 post type-post status-publish format-standard hentry category-thali">
+	
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://www.goland.org/phoneapparchitectureforthe99percent/" rel="bookmark">Building local Internet infrastructure for disadvantaged communities</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<div class="abstract">
+Smart phones are showing up in the poorest of countries. Even the Internet is showing up but it’s still quite expensive. But for a reasonable price we can deploy Wifi based local mesh infrastructures that can let people run applications on their smart phones and communicate locally with people around them. We have the technology! Below I explain what that technology is and why it’s all <a class="URL" href="http://www.servalproject.org/">Serval's</a> fault.
+</div>
+ <a href="https://www.goland.org/phoneapparchitectureforthe99percent/#more-1337" class="more-link">Continue reading <span class="screen-reader-text">Building local Internet infrastructure for disadvantaged communities</span></a>	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://www.goland.org/phoneapparchitectureforthe99percent/" rel="bookmark"><time class="entry-date published" datetime="2017-02-08T16:48:03-08:00">February 8, 2017</time><time class="updated" datetime="2017-02-08T17:17:56-08:00">February 8, 2017</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.goland.org/category/technology/thali/" rel="category tag">Thali</a></span><span class="comments-link"><a href="https://www.goland.org/phoneapparchitectureforthe99percent/#comments">8 Comments<span class="screen-reader-text"> on Building local Internet infrastructure for disadvantaged communities</span></a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-1337 -->
+
+<article id="post-1335" class="post-1335 post type-post status-publish format-standard hentry category-thali">
+	
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://www.goland.org/howmanywifiendpoints/" rel="bookmark">A quick and dirty way to calculate endpoints needed for forming a mesh with radios</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<div class="abstract">
+I needed to figure out how many Wifi endpoints which had a range of around 300 feet would be needed to form a mesh that covers a square mile. I do a bunch of 1/2 baked math below to estimate that 138 endpoints would be needed for complete coverage.
+</div>
+ <a href="https://www.goland.org/howmanywifiendpoints/#more-1335" class="more-link">Continue reading <span class="screen-reader-text">A quick and dirty way to calculate endpoints needed for forming a mesh with radios</span></a>	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://www.goland.org/howmanywifiendpoints/" rel="bookmark"><time class="entry-date published updated" datetime="2017-02-08T14:54:56-08:00">February 8, 2017</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.goland.org/category/technology/thali/" rel="category tag">Thali</a></span><span class="comments-link"><a href="https://www.goland.org/howmanywifiendpoints/#comments">1 Comment<span class="screen-reader-text"> on A quick and dirty way to calculate endpoints needed for forming a mesh with radios</span></a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-1335 -->
+
+<article id="post-1332" class="post-1332 post type-post status-publish format-standard hentry category-thali">
+	
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://www.goland.org/serval_and_thali/" rel="bookmark">Serval and Thali</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<div class="abstract">
+Serval is a project that wants to enable mobile phones to work no matter what. They have built mesh technology to let mobiles make voice calls as well as share data and have an app available on Android to use this technology. This is a technology that Thali could potentially really leverage. In the first section below I give a quick walk through of Serval. In the next section I compare and contrast Serval and Thali’s ways of solving similar problems. Then I conclude that hopefully we can reach a point where Thali just runs on top of Serval.
+</div>
+ <a href="https://www.goland.org/serval_and_thali/#more-1332" class="more-link">Continue reading <span class="screen-reader-text">Serval and Thali</span></a>	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://www.goland.org/serval_and_thali/" rel="bookmark"><time class="entry-date published updated" datetime="2016-07-13T17:32:43-08:00">July 13, 2016</time></a></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://www.goland.org/category/technology/thali/" rel="category tag">Thali</a></span><span class="comments-link"><a href="https://www.goland.org/serval_and_thali/#comments">2 Comments<span class="screen-reader-text"> on Serval and Thali</span></a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-1332 -->
+
+	<nav class="navigation pagination" aria-label="Posts">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><span aria-current="page" class="page-numbers current"><span class="meta-nav screen-reader-text">Page </span>1</span>
+<a class="page-numbers" href="https://www.goland.org/page/2/"><span class="meta-nav screen-reader-text">Page </span>2</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class="page-numbers" href="https://www.goland.org/page/20/"><span class="meta-nav screen-reader-text">Page </span>20</a>
+<a class="next page-numbers" href="https://www.goland.org/page/2/">Next page</a></div>
+	</nav>
+		</main><!-- .site-main -->
+	</div><!-- .content-area -->
+
+
+	</div><!-- .site-content -->
+
+	<footer id="colophon" class="site-footer">
+		<div class="site-info">
+									<a href="https://wordpress.org/" class="imprint">
+				Proudly powered by WordPress			</a>
+		</div><!-- .site-info -->
+	</footer><!-- .site-footer -->
+
+</div><!-- .site -->
+
+<!-- Powered by WPtouch: 4.3.62 --><script id="wp_slimstat-js-extra">
+var SlimStatParams = {"transport":"ajax","ajaxurl_rest":"https:\/\/www.goland.org\/wp-json\/slimstat\/v1\/hit","ajaxurl_ajax":"https:\/\/www.goland.org\/wordpress\/wordpress\/wp-admin\/admin-ajax.php","ajaxurl_adblock":"https:\/\/www.goland.org\/request\/d33c9d87e1dc9dd2b79b3f81c324fd27\/","ajaxurl":"https:\/\/www.goland.org\/wordpress\/wordpress\/wp-admin\/admin-ajax.php","baseurl":"\/","dnt":"noslimstat,ab-item","ci":"YToxOntzOjEyOiJjb250ZW50X3R5cGUiO3M6NDoiaG9tZSI7fQ--.ba16bd4fa9723eae85a556d6f9331b5f","wp_rest_nonce":"4d99863b09"};
+</script>
+<script defer src="https://cdn.jsdelivr.net/wp/wp-slimstat/tags/5.3.5/wp-slimstat.min.js" id="wp_slimstat-js"></script>
+
+</body>
+</html>
